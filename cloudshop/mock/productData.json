@@ -1,0 +1,77 @@
+{
+  "data": [
+      {
+          "country_code": "IN",
+          "description": "3 Fuel Cans",
+          "icon": "mock/products/p1.png",
+          "name": "3 Fuel Cans",
+          "price": "527.47",
+          "price_currency_code": "INR",
+          "product_id": "test_49"
+      },
+      {
+          "country_code": "IN",
+          "description": "1 Fuel Can",
+          "icon": "mock/products/p2.png",
+          "name": "1 Fuel Can",
+          "price": "100.0",
+          "price_currency_code": "INR",
+          "product_id": "test_46"
+      },
+      {
+          "country_code": "IN",
+          "description": "Large combo",
+          "icon": "mock/products/p3.png",
+          "name": "Large combo",
+          "price": "400.0",
+          "price_currency_code": "INR",
+          "product_id": "test_42"
+      },
+      {
+          "country_code": "IN",
+          "description": "Elite combo",
+          "icon": "mock/products/p4.png",
+          "name": "Elite combo",
+          "price": "100.0",
+          "price_currency_code": "INR",
+          "product_id": "test_41"
+      },
+      {
+          "country_code": "IN",
+          "description": "1 Coin",
+          "icon": "mock/products/p5.png",
+          "name": "1 Coin",
+          "price": "100.0",
+          "price_currency_code": "INR",
+          "product_id": "test_40"
+      },
+      {
+          "country_code": "IN",
+          "description": "3 Coins",
+          "icon": "mock/products/p6.png",
+          "name": "3 Coins",
+          "price": "100.0",
+          "price_currency_code": "INR",
+          "product_id": "test_39"
+      },
+      {
+          "country_code": "IN",
+          "description": "10 Coins",
+          "icon": "mock/products/p7.png",
+          "name": "10 Coins",
+          "price": "100.0",
+          "price_currency_code": "INR",
+          "product_id": "test_38"
+      },
+      {
+          "country_code": "IN",
+          "description": "40 Coins",
+          "icon": "mock/products/p8.png",
+          "name": "40 Coins",
+          "price": "100.0",
+          "price_currency_code": "INR",
+          "product_id": "test_37"
+      }
+  ],
+  "success": true
+}

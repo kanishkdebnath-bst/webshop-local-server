@@ -1,0 +1,26 @@
+{
+  "data": {
+    "app_name": {
+      "en": "Battle Bears Heroes"
+    },
+    "assets": {
+      "cover_page": "mock/app/cover.png",
+      "cover_video": "mock/app/video.mp4",
+      "game_logo": "mock/app/logo.png",
+      "icon": "mock/app/icon.png",
+      "game_now_image": "mock/app/playnowBG.png",
+      "screenshots": ["mock/app/s1.png", "mock/app/s2.png", "mock/app/s3.png"]
+    },
+    "company_id": "1012",
+    "company_name": "SkyVu Entertainment",
+    "genres": ["Action", "Multiplayer"],
+    "description": "Battle Bears is an action-packed 3D shooter with massive bosses, heaps of humor, tons of crazy weapons, and no shortage of fluffiness or shooting rainbows. This special PC edition includes all 3 campaigns, full HD cutscenes, and tons of new effects tailor made for your PC.Join OLIVER, RIGGS and WIL on a space odyssey none of them are anywhere close to thrilled to be experiencing. Defend the flagship Ursa Major from an onslaught of confused creatures hewn from the deepest, darkest corners of the cosmos' disturbed imagination.HOW TO PLAY:To Move: Use WASD or Arrow keysTo Look Around: Use Mouse or TrackpadTo Fire: ClickTo Pause: EscTo Switch Weapons: Use Mouse Scroll or 1, 2, 3, 4 or 5To Access MAP: Tab",
+    "metadata": {
+      "geo": "IN"
+    },
+    "playnow_link": "https://www.google.com",
+    "payment_app_id": "7997",
+    "privacy_policy": "https://www.google.com"
+  },
+  "success": true
+}
